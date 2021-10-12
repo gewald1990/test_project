@@ -1,10 +1,10 @@
-esse eh um nao sei de teste
+esse eh um nova branch conflito
 
 teste 
-sei la para merge
+sei la nova branch conflito
 
 asf
 
-penultimo commit
+penultimo nova branch conflito
 
 ...
