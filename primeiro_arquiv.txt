@@ -1,10 +1,10 @@
-esse eh um nao sei de teste
+esse eh um master
 
 teste 
-sei la para merge
+sei la para master
 
 asf
 
-penultimo commit
+penultimo master
 
 ...
