@@ -1,10 +1,11 @@
-esse eh um master
+esse eh um nova branch conflito
 
 teste 
 sei la para master
+sei la nova branch conflito
 
 asf
 
-penultimo master
+penultimo nova branch conflito
 
 ...
