@@ -1,8 +1,8 @@
-esse eh um arquivo de teste
+esse eh um texto de teste
 
-alteracao para merge
+modificacao para merge
 
 
-ultimo commit
+penultimo commit
 
 ...
