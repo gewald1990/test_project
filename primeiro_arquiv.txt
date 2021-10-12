@@ -1,8 +1,10 @@
-esse eh um arquivo de teste
+esse eh um nao sei de teste
 
-alteracao para merge
+teste 
+sei la para merge
 
+asf
 
-ultimo commit
+penultimo commit
 
 ...
