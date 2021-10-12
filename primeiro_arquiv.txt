@@ -8,4 +8,6 @@ asf
 
 penultimo nova branch conflito
 
+criada_remota
+
 ...
